@@ -11,7 +11,8 @@ body {
     width: 100%;
     margin-bottom: 20px;
     padding: 20px;
-    border: 15px solid black; /* Default Border */
+    border-radius: 15px;
+    border: 10px solid black; /* Default Border */
     color: white; /* Default text color inside boxes */
 }
 
