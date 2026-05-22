@@ -3,7 +3,6 @@ body {
     background-color: #f4f1ea;
 }
 
-/* 1. THE BASE COMPONENT: This targets BOTH boxes */
 .card {
     background-color: #FFFFFF;
     color: #000000;
@@ -12,7 +11,6 @@ body {
     padding: 40px;
 }
 
-/* 2. THE MODIFIERS: These give each box a unique border color */
 .box-a {
     border-color: #6f4e37;
     margin-bottom: 50px;
